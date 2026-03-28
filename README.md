@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Syed Naveedullah Hussaini</h1>
 <h3 align="center">Full Stack Web developer and Graphic Designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syednaveed&label=Profile%20views&color=0e75b6&style=flat" alt="syednaveed" /> </p>
 
