@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/s.naveed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="s.naveed" height="30" width="40" /></a>
 <a href="https://twitter.com/s_naveed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_naveed10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed naveedullah hussaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed naveedullah hussaini" height="30" width="40" /></a>
+<a href="linkedin.com/in/syed-naveedullah-hussaini-0b2741227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed naveedullah hussaini" height="30" width="40" /></a>
 <a href="https://instagram.com/naveed_stacked.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveed_arts10" height="30" width="40" /></a>
 </p>
 
