@@ -30,7 +30,7 @@ const naveed = {
   learning  : "DevOps & Cloud Architecture ☁️",
   stack     : ["MERN", "Next.js", "Three.js", "WebGL", "Framer Motion"],
   design    : ["Blender", "Spline", "Figma", "Illustrator", "Photoshop"],
-  ask_me    : "MERN Stack • Next.js • 3D Web • UI Design",
+  ask_me    : "MERN Stack • AWS • 3D Web • UI/UX Design",
   fun_fact  : "I love discovering new things — even about myself ⚡",
 };
 ```
